@@ -41,25 +41,32 @@ I am a Full Stack Developer with experience in Angular, Java, Spring Boot, and f
 
 ### Clone the repository
 
-git clone https://github.com/banumathimuthumariappan-gif/My-Personal-Portfolio-Website.git
-cd My-Personal-Portfolio-Website
+- git clone https://github.com/banumathimuthumariappan-gif/My-Personal-Portfolio-Website.git
+- cd My-Personal-Portfolio-Website
 
 ### Open in Browser
-Just open the index.html file in your browser.
-(You can also use a live server extension in VS Code for development.)
+- Just open the index.html file in your browser.
+- (You can also use a live server extension in VS Code for development.)
 
 ## ✅ Getting Started
 
 My-Personal-Portfolio-Website/
-│── index.html        # Main HTML file
-│── css/
-│   └── styles.css    # Custom styles
-│── js/
-│   └── app.js        # JavaScript animations & interactivity
-│── assets/           # Images (profile picture, project screenshots, certificates)
-└── README.md         # Project documentation
-└── App-Screenshots         # Application screenshots
 
+│── index.html         # Main HTML File
+
+│── /css
+
+│   ├── styles.css     # Custom Styles
+
+│── /js
+
+│   ├── app.js        # JavaScript animations & interactivity
+
+│── assets/            # Images (profile picture, project screenshots, certificates)
+
+│── README.md          # Project Documentation
+
+│── App-Screenshots     # Application screenshots
 
 ## 📷 Screenshots
 
@@ -72,6 +79,6 @@ My-Personal-Portfolio-Website/
 ![Footer](./App-Screenshots/Footer.png)
 
 ## 📬 Contact
-Portfolio Website: Live Demo
-LinkedIn: [linkedin.com/in/banumathi-muthumariappan](https://www.linkedin.com/in/banumathi-muthumariappan-49799837b/)
-GitHub: [github.com/banumathimuthumariappan-gif](https://github.com/banumathimuthumariappan-gif/My-Personal-Portfolio-Website/#)
+- Portfolio Website: Live Demo
+- LinkedIn: [linkedin.com/in/banumathi-muthumariappan](https://www.linkedin.com/in/banumathi-muthumariappan-49799837b/)
+- GitHub: [github.com/banumathimuthumariappan-gif](https://github.com/banumathimuthumariappan-gif/My-Personal-Portfolio-Website/#)
